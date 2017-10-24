@@ -56,3 +56,5 @@ docs/_build/
 
 # PyBuilder
 target/
+/lesson2/naiveBaseFirst/test.png
+/.idea/
